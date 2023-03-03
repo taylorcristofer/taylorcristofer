@@ -1,6 +1,6 @@
 ### Hi! I'm Taylor Cristofer. 👋
 - 🔭 Analise e Desenvolvimento de Sistemas
-- 🌱 Estudante de JAVA, HTML and CSS
+- 🌱 Estudante de JAVA e Desenvolvimento Web.
 - 👯 Contate-me pelo e-mail: Taylorcristofe20.24@gmail.com
 - 😄 Pronomes: Ele/Dele
 
