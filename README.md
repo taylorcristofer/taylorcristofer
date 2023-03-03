@@ -1,7 +1,6 @@
 ### Hi! I'm Taylor Cristofer. 👋
-- 🔭 Analise e Desenvolvimento de Sistemas
-- 🌱 Estudante de JAVA e Desenvolvimento Web.
-- 😄 Pronomes: Ele/Dele
+- 🎓 Analise e Desenvolvimento de Sistemas
+- 👨🏻‍💻 Estudante de JAVA e Desenvolvimento Web.
 
 <div align= "centro">
   <a href="https://github.com/taylorcristofer">
