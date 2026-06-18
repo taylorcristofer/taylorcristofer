@@ -24,29 +24,50 @@ Atualmente desenvolvendo o SIGET, uma plataforma para gestão de terceirizados, 
 ## 🚀 Projetos em Destaque
 
 ### SIGET
-Sistema de Gestão de Terceirizados
+SIGET – Sistema de Gestão de Terceirizados
+
+Plataforma corporativa desenvolvida para gerenciamento de funcionários terceirizados, contratos, órgãos públicos e alocações operacionais.
 
 Tecnologias:
 - Java
 - Spring Boot
 - PostgreSQL
 - Flyway
-- HTML
-- CSS
-- JavaScript
+- Maven
+- HTML/CSS/JavaScript
 
-Funcionalidades:
-- Gestão de Funcionários
-- Órgãos Públicos
-- Contratos
-- Alocações
-- Dashboard Administrativo
-- RH (em desenvolvimento)
+Conceitos Aplicados:
+- Arquitetura em Camadas
+- APIs REST
+- Modelagem Relacional
+- Controle de Versionamento
+- Boas Práticas de Backend
+
+Roadmap
+
+✅ Gestão de Funcionários
+✅ Gestão de Contratos
+✅ Órgãos Públicos
+✅ Dashboard
+
+🔄 RH
+🔄 Relatórios
+🔄 Controle de Documentação
+
+Status:
+🚧 Em desenvolvimento ativo
+
+📚 Atualmente estudando
+
+- Spring Security
+- Testes Automatizados (JUnit)
+- Docker
+- Clean Architecture
 
 ##  conecte-se comigo
 
 <div>
   <a href="https://www.linkedin.com/in/taylor-c-869aba244" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5581992663112" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target"_blank"></a>
-  <a href="taylorcristofe20.24@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target"_blank"></a>
+  <a href="mailto:taylorcristofe20.24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target"_blank"></a>
 </div>
